@@ -220,7 +220,3 @@ In the Final Part of this Project, I integrated the cache with the 5 stage Pipel
 
 The GUI is under active Development and will most likely be made using ImGui or Electronjs
 
-# Contributor
-
-Made with ❤️ By : <a href="https://twitter.com/ShogLoFi">shogo</a>
-
