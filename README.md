@@ -17,12 +17,12 @@ sw a1,34(x0)
 
 loop:
 addi a2,a2,7
-beq a1,a2,shogo
+beq a1,a2,ishaan
 
 skip:
 addi x4,x4,9
 
-shogo:
+ishaan:
 addi x5,x5,69
 lw x9,34(x0)
 ```
